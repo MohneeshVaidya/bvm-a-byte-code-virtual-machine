@@ -1,1 +1,1 @@
-# BVM (A bytecode virtual machine in c++)
+# a byte code virtual machine written in c++
